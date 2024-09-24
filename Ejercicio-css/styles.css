@@ -1,0 +1,41 @@
+@font-face{
+    font-family: 'Monserrat';
+    src: url(/Fuentes/Montserrat/Montserrat-VariableFont_wght.ttf);
+    font-weight: bold;
+    font-style: bold;
+}
+body{
+    background-color: beige;
+}
+h1{
+    font-family: 'Monserrat', sans-serif;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+h4{
+    font-weight: bold;
+}
+
+h5{
+    font-style: italic
+}
+
+h6{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+p{
+    letter-spacing: 10px;
+}
+span{
+    word-spacing: 20px;
+}
