@@ -103,7 +103,9 @@ h1{
 - Selector de ID(100)
 - Selector Universal (uso box model)
 
+```html
 <!-- Actualizar el repositorio con lo visto en la 2da parte
   1) Explicar los conceptos con ejemplos
   2) (Agregar una nueva tipografia de google fonts, usando font-face)
 -->
+```
